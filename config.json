@@ -1,0 +1,19 @@
+{
+  "contactOwner": "62895401071617",
+  "ownerNumber": ["62895401071617@s.whatsapp.net"],
+  "botName": "HIRA-BOT",
+  "ownerName": "Hiraiya",
+  "pathimg": "./temp/logo.jpg",
+  "footer": "HIRABOT © 2022",
+  "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
+  "payment": {
+    "gopay": {
+      "nomer": "no found",
+      "atas_nama": "no found"
+    },
+    "ovo": {
+      "nomer": "62895401071617",
+      "atas_nama": "Hiraiya"
+    }
+  }
+}
